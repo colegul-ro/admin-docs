@@ -3,7 +3,7 @@
 Această pagină este aceeași pentru toată lumea, indiferent de departament și/sau funcție. Conține lucruri elementare, pe care orice membru al comunității ar trebui să le știe. 
 
 ### Update-urile platformei
-- un prim element de maximă importanță care este listat pe pagina principală a platformei, sunt actualizările constante. În fiecare zi aducem ceva nou platformei - o noutate, o îmbunătățire - așa că, pot apărea fel și fel de modificări în ceea ce privește structura internă a platformei - putem discuta despre corelarea datelor, stratificarea bazei de date, șamd - utilizatorii platformei trebuie să fie informați în timp util.
+Un prim element de maximă importanță care este listat pe pagina principală a platformei, sunt actualizările constante. În fiecare zi aducem ceva nou platformei - o noutate, o îmbunătățire - așa că, pot apărea fel și fel de modificări în ceea ce privește structura internă a platformei - putem discuta despre corelarea datelor, stratificarea bazei de date, șamd - utilizatorii platformei trebuie să fie informați în timp util.
 
 Actualizările pot fi de mai multe feluri:
 - Structurale (acestea se aplică instant, însă utilizatorii nu le vor observa, pentru că de cele mai multe ori au legătură cu organizarea datelor și manipularea acestora, deci nu vor influența în niciun fel experiența membrilor - badge-ul portocaliu);
@@ -11,7 +11,7 @@ Actualizările pot fi de mai multe feluri:
 - Rezolvarea bug-urilor (cel mai probabil nu vom avea astfel de actualizări - știm despre ce vorbim);
 
 ### Statisticile elementare ale aplicației
-- al doilea element al paginii care conține numere de interes comun. Aici este afișată suma totală a anumitor elemente din baza noastră de date, anume:
+Al doilea element al paginii care conține numere de interes comun. Aici este afișată suma totală a anumitor elemente din baza noastră de date, anume:
 - numărul total de lecții (suma tuturor lecțiilor, indiferent de departament și/sau de status);
 - numărul total de utilizatori;
 - numărul total de commit-uri (termenul de „commit” este împrumutat din internolimbajul Github-ului și reprezintă acțiunea prin care un utilizator face o modificare unei lecții, adică, un commit = o modificare a unei lecții);
