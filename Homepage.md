@@ -11,7 +11,7 @@ Actualizările pot fi de mai multe feluri:
 - Rezolvarea bug-urilor (cel mai probabil nu vom avea astfel de actualizări - știm despre ce vorbim);
 
 ### Statisticile elementare ale aplicației
-- al doilea element al paginii care conține numere de interes comun. Aici sunt afișate suma totală a animitor elemente in baza noastră de date, anume:
+- al doilea element al paginii care conține numere de interes comun. Aici este afișată suma totală a animitor elemente in baza noastră de date, anume:
 - numărul total de lecții (suma tuturor lecțiilor, indiferent de departament și/sau de status);
 - numărul total de utilizatori;
 - numărul total de commit-uri (termenul de „commit” este împrumutat din internolimbajul Github-ului și reprezintă acțiunea prin care un utilizator face o modificare unei lecții, adică, un commit = o modificare a unei lecții);
