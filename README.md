@@ -1,1 +1,1 @@
-# admin-docs
+## Documentația platformei administrative
