@@ -2,7 +2,7 @@
 
 Această pagină este aceeași pentru toată lumea, indiferent de departament și/sau funcție. Conține lucruri elementare, pe care orice membru al comunității ar trebui să le știe. 
 
-## **Update-urile platformei** 
+### Update-urile platformei
 - un prim element de maximă importanță care este listat pe pagina principală a platformei, sunt actualizările constante. În fiecare zi aducem ceva nou platformei - o noutate, o îmbunătățire - așa că, pot apărea fel și fel de modificări în ceea ce privește structura internă a platformei - putem discuta despre corelarea datelor, stratificarea bazei de date, șamd - utilizatorii platformei trebuie să fie informați în timp util.
 
 Actualizările pot fi de mai multe feluri:
@@ -10,7 +10,7 @@ Actualizările pot fi de mai multe feluri:
 - Dinamice (aceste actualizări se aplică pe o perioadă de 1-2 zile, cu o tranziție ușor observabilă, pentru a evita orice fel de erori de natură tehnică. Spre exemplu, când Facebook face o actualizare, aceasta se aplică pe o perioadă de timp, pentru a nu îngreuna platforma și pentru a evita o catastrofă a cache-ului intern din browser - așa și noi, doar că nu avem milioane de utilizatori. Aceste update-uri conțin modificări de grafică, adăugare de tool-uri noi, șamd - badge-ul verde);
 - Rezolvarea bug-urilor (cel mai probabil nu vom avea astfel de actualizări - știm despre ce vorbim);
 
-## **Statisticile elementare ale aplicației** 
+### Statisticile elementare ale aplicației
 - al doilea element al paginii care conține numere de interes comun. Aici sunt afișate suma totală a animitor elemente in baza noastră de date, anume:
 - numărul total de lecții (suma tuturor lecțiilor, indiferent de departament și/sau de status);
 - numărul total de utilizatori;
