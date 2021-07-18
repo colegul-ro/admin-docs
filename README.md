@@ -1,15 +1,13 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://i.postimg.cc/02mgNQNL/githubphoto.png" width="400"></a></p>
+<p align="center"><a href="https://www.colegul.ro" target="_blank"><img src="https://i.postimg.cc/02mgNQNL/githubphoto.png" width="400"></a></p>
 
-<p align="center">
-<a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
+## Introducere
 
-## Despre platformă
+Dacă citești această documentație înseamnă că ai trecut de toate etapele necesare obținerii statutului de colaborator. Felicitări și îți urăm mult succes în drumul pe care tocmai ai pornit! 
 
-Acest panou administrativ este dedicat în totalitate administrării tehnice a materialelor și a colaboratorilor colegul.ro. Aceasta are la bază **Laravel Mix** ([Laravel](https://laravel.com) & [VueJS 2](https://vuejs.org/)) pentru a putea facilita atât un front-end performant, cât și un back-end robust și eficient.
+Din câte bine știi, platforma la care lucrăm se numește colegul.ro. Inspirat nume, într-adevăr. Este un proiect de calibru mare care cu siguranță va lua amploare în momentul în care va fi lansat pe piață, dar ca să ajungă pe piață avem nevoie de ajutorul tău!
 
-## Licență
+Platforma administrativă (cea pe care tu navighezi chiar acum) a fost construită într-un timp record și centralizează într-un singur loc toate uneltele necesare unei colaborări productive, iar ca tu să poți beneficia de acest workflow, trebuie să cunoști aplicația îndreaproape. Aici intervine rolul documentației.
 
-Acest produs este licențiat cu [MIT license](https://opensource.org/licenses/MIT) și [Enterprise license](https://robertseghedi.dev).
+**Documentația** este locul unde îți explicăm fiecare funcție, fiecare chichiță, fiecare pagină, tocmai ca tu să poți înțelege cum funcționează sistemul nostru și să te poți bucura împreună cu membrii echipei tale de rezultate impresionante, tot în timp record.
+
+Pentru a putea explora toate sistemele de pe platformă, ai în stânga un meniu care le cuprinde pe toate. Spor la citit!
